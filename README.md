@@ -1,4 +1,4 @@
-Hospital_Analysis_Dashoard_Excel
+Hospital_Analysis_Dashboard_Excel
 
 🔍 Project Overview
 This project presents an interactive **Hospital Analysis Dashboard** built using Microsoft Excel. The dashboard provides insights into hospital operations, patient trends, and revenue performance to support data-driven decision-making in the healthcare domain.
